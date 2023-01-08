@@ -13,8 +13,3 @@ I tried to recreate my childhood playground. I used to live there for about 14 y
 ## Gameplay
 
 [![Gameplay Video](https://img.youtube.com/vi/ACGLzCy_fDo/0.jpg)](https://www.youtube.com/watch?v=ACGLzCy_fDo)
- 
-## Assets
-FAUSTO D - Ground Materials FD Free
-
-MIXAILL - Textures - Brick and Tile
